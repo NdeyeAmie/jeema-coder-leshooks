@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jeema-coder-leshooks/static/css/main.98c5be4c.css",
+    "main.js": "/jeema-coder-leshooks/static/js/main.1b1f192e.js",
+    "static/js/453.a9fdc893.chunk.js": "/jeema-coder-leshooks/static/js/453.a9fdc893.chunk.js",
+    "index.html": "/jeema-coder-leshooks/index.html",
+    "main.98c5be4c.css.map": "/jeema-coder-leshooks/static/css/main.98c5be4c.css.map",
+    "main.1b1f192e.js.map": "/jeema-coder-leshooks/static/js/main.1b1f192e.js.map",
+    "453.a9fdc893.chunk.js.map": "/jeema-coder-leshooks/static/js/453.a9fdc893.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98c5be4c.css",
+    "static/js/main.1b1f192e.js"
+  ]
+}
