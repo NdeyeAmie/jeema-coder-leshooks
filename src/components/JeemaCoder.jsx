@@ -28,6 +28,8 @@ function JeemaCoder() {
 
     const modifInfoCodeurs = (id) => {
         const codeurToModify = codeurs.find((newUser) => newUser.id === id);
+        console.log(modifCodeurs);
+        
         setModifCodeurs(codeurToModify);
     }
 
@@ -36,7 +38,7 @@ function JeemaCoder() {
             const updatedUsers = prev.map((newUser) =>
                 newUser.id === updatedUser.id ? updatedUser : newUser
             );
-            console.log(updateUser);
+            // console.log(updateUser);
             
             localStorage.setItem("codeurs", JSON.stringify(updatedUsers));
             return updatedUsers;
